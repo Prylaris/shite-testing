@@ -1,0 +1,21 @@
+{
+  "name": "rando",
+  "version": "16.21.1",
+  "description": "A Discord bot with more than general common features.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "lavalink": "^2.3.1",
+    "pm2": "^3.2.3",
+    "util": "^0.11.1"
+  }
+}
